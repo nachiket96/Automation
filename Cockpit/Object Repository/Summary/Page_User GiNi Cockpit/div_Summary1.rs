@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Summary1</name>
+   <tag></tag>
+   <elementGuidId>6703f9a6-10bd-4e1a-9b83-53e6d27c5c42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.e-list-item.e-level-2.e-hover > div.e-text-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='breadcrumb_active']/ul/li/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5e51137c-974b-4f56-9235-4119f3f0a6d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>e-text-content</value>
+      <webElementGuid>30a4960f-8310-46ac-9223-793df5ae53b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Summary</value>
+      <webElementGuid>aec6ad83-7c48-4e70-b1ee-6945eec840f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;breadcrumb_active&quot;)/ul[@class=&quot;e-list-parent e-ul&quot;]/li[@class=&quot;e-list-item e-level-2 e-hover&quot;]/div[@class=&quot;e-text-content&quot;]</value>
+      <webElementGuid>3fd5e7dd-7938-4deb-a9b9-3aca4c128d2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='breadcrumb_active']/ul/li/div[2]</value>
+      <webElementGuid>fa5830c7-3c6b-4acd-8e3c-32afc5f195ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[7]</value>
+      <webElementGuid>b965e044-4abf-4030-8d63-01a382118b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin'])[2]/following::div[13]</value>
+      <webElementGuid>10a0cddf-9a82-412e-bfb6-4018cf1c6253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator Labor Overview'])[1]/preceding::div[5]</value>
+      <webElementGuid>8aab8de3-68a2-400b-a9af-c942e203d0f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/div[2]</value>
+      <webElementGuid>f691ffaa-bd82-4d14-923a-e86fc61606f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Summary' or . = 'Summary')]</value>
+      <webElementGuid>6f6a05a4-7229-4530-9891-53be88e3028f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

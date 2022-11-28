@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Reports</name>
+   <tag></tag>
+   <elementGuidId>cab6da7f-9239-4560-8196-364208c450e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;breadcrumb&quot;)/ul[@class=&quot;e-list-parent e-ul&quot;]/li[@class=&quot;e-list-item e-level-1 e-node-collapsed e-hover&quot;]/div[@class=&quot;e-text-content e-icon-wrapper&quot;]/div[@class=&quot;e-icons e-icon-expandable&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.e-icons.e-icon-expandable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='breadcrumb']/ul/li[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>432361fe-28ed-4786-89bc-1f34d96552d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>e-icons e-icon-expandable</value>
+      <webElementGuid>e08128f0-803f-4ed0-86d1-3598901ffdbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;breadcrumb&quot;)/ul[@class=&quot;e-list-parent e-ul&quot;]/li[@class=&quot;e-list-item e-level-1 e-node-collapsed e-hover&quot;]/div[@class=&quot;e-text-content e-icon-wrapper&quot;]/div[@class=&quot;e-icons e-icon-expandable&quot;]</value>
+      <webElementGuid>af452c55-a90f-4257-bcaa-a1444cde92c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='breadcrumb']/ul/li[2]/div[2]/div</value>
+      <webElementGuid>a2beb7cb-430e-478f-8504-6d77155c6939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div[2]/div</value>
+      <webElementGuid>209410a7-f8a1-4f17-99e5-7ef68dc48d5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

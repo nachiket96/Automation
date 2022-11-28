@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Language_e-icons e-frame e-check</name>
+   <tag></tag>
+   <elementGuidId>88fa4845-a624-4041-b32e-2cabc7685e19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label > span.e-icons.e-frame.e-check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='Grid_User1EditForm']/table/tbody/tr[8]/td/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>74f07af8-4e39-4a48-83b5-a07542736584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>e-icons e-frame e-check</value>
+      <webElementGuid>7f565bbb-f9a4-4d71-ba8e-2292c47971b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Grid_User1EditForm&quot;)/table[@class=&quot;e-table&quot;]/tbody[1]/tr[8]/td[@class=&quot;e-rowcell&quot;]/div[@class=&quot;e-checkbox-wrapper e-wrapper&quot;]/label[1]/span[@class=&quot;e-icons e-frame e-check&quot;]</value>
+      <webElementGuid>842b1a58-33a4-442d-b7b2-110a1ac47f9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='Grid_User1EditForm']/table/tbody/tr[8]/td/div/label/span</value>
+      <webElementGuid>69a596bb-5071-40b3-9668-0c7a9d56556a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>c9f4512e-a6ec-4cd2-ac68-55c574799da4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

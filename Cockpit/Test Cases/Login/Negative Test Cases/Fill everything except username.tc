@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fill everything except username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce486d7e-6454-41b2-a1ea-abe4808f1557</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_SMD_fas fa-times</name>
+   <tag></tag>
+   <elementGuidId>3cf16acf-7319-4194-ba49-c48db733bf38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-times</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>360da1cc-8a73-41ef-805d-8d9dbe264404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-times</value>
+      <webElementGuid>9363e4b4-2fa2-401f-9b2a-3ee40a798ecc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/nav[@class=&quot;navbar navbar-expand-lg navbar-light fixed-top&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;close-btn&quot;]/i[@class=&quot;fas fa-times&quot;]</value>
+      <webElementGuid>5a442b04-5ec8-4da2-b7ad-9a7005f52109</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/i</value>
+      <webElementGuid>21587b02-685a-4705-a98e-7f9bf46da13b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

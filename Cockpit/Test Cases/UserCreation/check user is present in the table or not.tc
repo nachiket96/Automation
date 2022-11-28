@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check user is present in the table or not</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87687c41-e10e-49d4-a073-3795f880c080</testCaseGuid>
+</TestCaseEntity>

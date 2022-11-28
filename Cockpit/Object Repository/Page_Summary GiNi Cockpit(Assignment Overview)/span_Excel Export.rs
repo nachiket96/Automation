@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Excel Export</name>
+   <tag></tag>
+   <elementGuidId>963d5679-4331-4a92-aa13-19c4973b69f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Grid_AssignmentOverview_excelexport > span.e-tbar-btn-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='Grid_AssignmentOverview_excelexport']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1b5e2714-5cab-45fc-978f-82973aa0d748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>e-tbar-btn-text</value>
+      <webElementGuid>0f4f91c9-409f-42bc-ae31-5f8cd43a8b9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Excel Export</value>
+      <webElementGuid>2da0689a-881c-450f-bd6d-7ea67d208d0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Grid_AssignmentOverview_excelexport&quot;)/span[@class=&quot;e-tbar-btn-text&quot;]</value>
+      <webElementGuid>44a3b58a-7313-4109-8a54-1fe0cd6a12d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='Grid_AssignmentOverview_excelexport']/span[2]</value>
+      <webElementGuid>c4722584-cc81-4f64-bb4c-3600f3c0d289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF Export'])[1]/following::span[2]</value>
+      <webElementGuid>0a9c0eb3-011c-4985-a228-fcce5afc0bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/following::span[4]</value>
+      <webElementGuid>7ef09618-3ffc-4391-98c4-9479f763f564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Columns'])[1]/preceding::span[1]</value>
+      <webElementGuid>5e014818-842a-482a-ba35-2c00cb10e5eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Region'])[2]/preceding::span[3]</value>
+      <webElementGuid>e1ac4c61-0547-4d04-a4b7-78b7ca714485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Excel Export']/parent::*</value>
+      <webElementGuid>9ec8db16-ad81-48a0-bec1-587287c21439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/button/span[2]</value>
+      <webElementGuid>8acd03f3-5cfa-45b0-800d-c7a4766cd395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Excel Export' or . = 'Excel Export')]</value>
+      <webElementGuid>ed949c3e-0c0b-4b09-a6be-b5ca367dfcad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

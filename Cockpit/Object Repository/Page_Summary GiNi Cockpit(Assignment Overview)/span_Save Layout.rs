@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save Layout</name>
+   <tag></tag>
+   <elementGuidId>aa9177a7-a79e-4d57-b603-111eae70ea8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.e-tbar-btn-text</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Save Layout' or . = 'Save Layout')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='Grid_AssignmentOverview_SaveLayout']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3fc393d1-5e0e-43de-a01c-4126323361aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>e-tbar-btn-text</value>
+      <webElementGuid>79f67b15-48b6-4f8b-a27a-6fd5c9e59b7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save Layout</value>
+      <webElementGuid>ec939455-76b5-4bc3-83ef-3b5d0259c368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Grid_AssignmentOverview_SaveLayout&quot;)/span[@class=&quot;e-tbar-btn-text&quot;]</value>
+      <webElementGuid>7939e944-f43c-4e38-80ba-5d4afc02e6f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='Grid_AssignmentOverview_SaveLayout']/span[2]</value>
+      <webElementGuid>85634f83-8bbe-4d83-9b41-87cd6cd05e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignment Overview'])[1]/following::span[4]</value>
+      <webElementGuid>a9b7f7ea-9c43-4261-a800-e99cca0cdcc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::span[4]</value>
+      <webElementGuid>cdcca203-cc58-461b-8c27-b5b21e91962f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/preceding::span[2]</value>
+      <webElementGuid>750ed431-c594-4956-bd4b-2044481d753b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Filter'])[1]/preceding::span[4]</value>
+      <webElementGuid>bf471eac-8af0-40d7-bddb-268c15874b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save Layout']/parent::*</value>
+      <webElementGuid>78524b9f-e80b-4380-830b-c92a199f6ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span[2]</value>
+      <webElementGuid>f39e83e1-a04c-45a9-964f-6d873dcc8067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save Layout' or . = 'Save Layout')]</value>
+      <webElementGuid>5a8f22f6-c064-40c7-92f5-e949e89bc0fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

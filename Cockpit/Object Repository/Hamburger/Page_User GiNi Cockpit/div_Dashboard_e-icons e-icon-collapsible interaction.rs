@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dashboard_e-icons e-icon-collapsible interaction</name>
+   <tag></tag>
+   <elementGuidId>55c4225e-0583-4afb-973f-de472b218fe9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.e-icons.e-icon-collapsible.interaction</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='breadcrumb']/ul/li[3]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a2a17e3b-bb4c-4a31-ae19-77155cf751c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>e-icons e-icon-collapsible interaction</value>
+      <webElementGuid>36165a3f-2e34-46be-b317-a005ba9704a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;breadcrumb&quot;)/ul[@class=&quot;e-list-parent e-ul&quot;]/li[@class=&quot;e-list-item e-level-1 e-hover&quot;]/div[@class=&quot;e-text-content e-icon-wrapper&quot;]/div[@class=&quot;e-icons e-icon-collapsible interaction&quot;]</value>
+      <webElementGuid>48df0c4c-0ac2-407e-95bf-d571527d73c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='breadcrumb']/ul/li[3]/div[2]/div</value>
+      <webElementGuid>2f054ea3-29f5-4de6-acab-4d8b32086535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div[2]/div</value>
+      <webElementGuid>116f66b2-d3e7-492e-bac0-29b8f88fa3cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

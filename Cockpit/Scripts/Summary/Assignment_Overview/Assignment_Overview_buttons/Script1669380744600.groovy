@@ -1,0 +1,77 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://192.168.3.50:33311/')
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Page_/input_Almasons Consulting LLC_CLIENTID'), GlobalVariable.Client)
+
+WebUI.setText(findTestObject('Page_/input_Almasons Consulting LLC_USERNAME'), GlobalVariable.userID)
+
+WebUI.setText(findTestObject('Page_/input_Almasons Consulting LLC_password'), GlobalVariable.Password)
+
+WebUI.click(findTestObject('Page_/button_Login'))
+
+validate = WebUI.verifyElementVisible(findTestObject('Page_/Verify Client'))
+
+WebUI.verifyElementText(findTestObject('Page_/Verify Client'), 'SMD')
+
+WebUI.click(findTestObject('Hamburger/Page_User GiNi Cockpit/i_SMD_fas fa-bars'))
+
+WebUI.click(findTestObject('Page_User GiNi Cockpit/Admin'))
+
+WebUI.click(findTestObject('Page_User GiNi Cockpit/Reports'))
+
+WebUI.click(findTestObject('Summary/Page_User GiNi Cockpit/div_Summary1'))
+
+WebUI.click(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/i_SMD_fas fa-times'))
+
+WebUI.verifyElementPresent(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/h4_Assignment Overview'), 0)
+
+WebUI.verifyElementText(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/h4_Assignment Overview'), 'Assignment Overview')
+
+WebUI.verifyElementClickable(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/span_Save Layout'))
+
+WebUI.verifyElementText(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/span_Save Layout'), 'Save Layout')
+
+WebUI.verifyElementClickable(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/span_Refresh'))
+
+WebUI.verifyElementText(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/span_Refresh'), 'Refresh')
+
+WebUI.verifyElementClickable(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/span_Clear Filter'))
+
+WebUI.verifyElementText(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/span_Clear Filter'), 'Clear Filter')
+
+WebUI.verifyElementClickable(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/span_Print'))
+
+WebUI.verifyElementText(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/span_Print'), 'Print')
+
+WebUI.verifyElementClickable(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/span_PDF Export'))
+
+WebUI.verifyElementText(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/span_PDF Export'), 'PDF Export')
+
+WebUI.verifyElementClickable(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/span_Excel Export'))
+
+WebUI.verifyElementText(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/span_Excel Export'), 'Excel Export')
+
+WebUI.click(findTestObject('Page_Summary GiNi Cockpit(Assignment Overview)/swipe right'))
+

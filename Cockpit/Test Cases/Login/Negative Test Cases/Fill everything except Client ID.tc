@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fill everything except Client ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3e91a09-d220-4e66-a818-c5c137028801</testCaseGuid>
+</TestCaseEntity>

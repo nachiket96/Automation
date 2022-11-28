@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Clear Filter</name>
+   <tag></tag>
+   <elementGuidId>55c9dfd3-c006-483e-858f-0f3d56537d87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#clear > span.e-tbar-btn-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='clear']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4b0b33bd-3daa-428a-b857-04de68b0c677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>e-tbar-btn-text</value>
+      <webElementGuid>1eacb622-371b-499f-947e-e2660d72dd9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clear Filter</value>
+      <webElementGuid>11d8a30b-ea05-4aad-86e5-55687e1a5eea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hscroll_8&quot;)/div[@class=&quot;e-hscroll-bar&quot;]/div[@class=&quot;e-hscroll-content&quot;]/div[@class=&quot;e-toolbar-left&quot;]/div[@class=&quot;e-toolbar-item&quot;]/button[@id=&quot;clear&quot;]/span[@class=&quot;e-tbar-btn-text&quot;]</value>
+      <webElementGuid>4308d9ff-40c3-4861-b218-1b03f4310c7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='clear']/span[2]</value>
+      <webElementGuid>b90a24af-6aec-4efd-b652-72170f832229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/following::span[2]</value>
+      <webElementGuid>85512e7d-29bb-4777-bc37-3c278c42e85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Layout'])[1]/following::span[4]</value>
+      <webElementGuid>bc26bb1e-67a6-4973-9741-2b5e810a7e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/preceding::span[2]</value>
+      <webElementGuid>52fea9cd-1b90-4383-affe-78650942bf78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF Export'])[1]/preceding::span[4]</value>
+      <webElementGuid>6a842880-6ebd-4de2-9af7-7138facb8690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Clear Filter']/parent::*</value>
+      <webElementGuid>cdeb61bd-d8a3-425d-b9fd-0023b8f5e9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/span[2]</value>
+      <webElementGuid>a8fc61ff-705d-4168-b292-e68f34d260d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Clear Filter' or . = 'Clear Filter')]</value>
+      <webElementGuid>d8ccc4f7-4878-46d5-a8fb-b59bb562d43f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

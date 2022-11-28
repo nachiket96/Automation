@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Positive test case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbb74fb5-e235-471f-9314-54eac3a63526</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4adfdc44-1e18-4971-84d2-92506bdfaa9f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2082e7d7-6e0c-4c7c-80c3-9de949f45f54</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>db88c15d-253e-4b1f-87c8-45b0cc893633</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SMD'</defaultValue>
+      <description></description>
+      <id>4adfdc44-1e18-4971-84d2-92506bdfaa9f</id>
+      <masked>false</masked>
+      <name>client</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>2082e7d7-6e0c-4c7c-80c3-9de949f45f54</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234'</defaultValue>
+      <description></description>
+      <id>db88c15d-253e-4b1f-87c8-45b0cc893633</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
