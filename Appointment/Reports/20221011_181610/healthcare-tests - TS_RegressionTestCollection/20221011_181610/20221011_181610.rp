@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ReportCollectionEntity>
-   <description></description>
-   <name>20221011_181610</name>
-   <tag></tag>
-   <displayName>20221011_181610</displayName>
-   <reportItemDescriptions/>
-   <testSuiteCollectionId>Test Suites/healthcare-tests - TS_RegressionTestCollection</testSuiteCollectionId>
-</ReportCollectionEntity>
